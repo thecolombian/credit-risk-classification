@@ -1,3 +1,6 @@
+![Imagen](IMAGES/SMALL-infographicdepictingcreditriskclassificationformortgages.png)
+
+
 ### The Analysis
 
 In this analysis, we used machine learning to predict the likelihood of a loan being classified as low-risk or high-risk. The objective was to enable financial institutions to make informed decisions by evaluating potential risks associated with loan applicants.
