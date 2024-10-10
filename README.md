@@ -7,7 +7,7 @@ In this analysis, we used machine learning to predict the likelihood of a loan b
 
 The dataset includes various financial features such as `loan_size`, `borrower_income`, `total_debt`, `interest_rate`, `debt_to_income` ratio, and credit history metrics like `num_of_accounts` and `derogatory_marks`. The target variable, `loan_status,` indicates whether a loan application is healthy (`0`) or high-risk (`1`). Our analysis focused on predicting this `loan_status` based on the other features.
 
-The machine learning process consisted of:
+### The machine learning process consisted of:
 
 * **Data Preprocessing**: We cleaned and prepared the data by handling missing values, encoding categorical variables, and standardizing numerical data to ensure all features were suitable for model training.
 * **Data Splitting**: To validate model performance, we split the data into training and testing sets using `train_test_split`.
