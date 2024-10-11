@@ -28,7 +28,7 @@ The dataset includes various financial features such as `loan_size`, `borrower_i
 
 ### Additional data analysis Results
 
-                      Metric         Value
+* **                 Metric         Value
    * **0          Loan Size Average   9806
    * **1           Loan Size Median   9500
    * **2      Interest Rate Average      7
