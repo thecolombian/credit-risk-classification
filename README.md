@@ -27,7 +27,7 @@ The dataset includes various financial features such as `loan_size`, `borrower_i
     * The confusion matrix and balanced accuracy score indicate that the model performed exceptionally well identifying healthy loans while maintaining solid precision for high-risk loans.
 
 ### Additional data analysis Results
-
+```
                       Metric         Value
    * **0          Loan Size Average   9806
    * **1           Loan Size Median   9500
@@ -40,7 +40,7 @@ The dataset includes various financial features such as `loan_size`, `borrower_i
    * **8         Average Total Debt  19222
    * **9   Debt to Income Ratio Min      0
    * **10  Debt to Income Ratio Max      0
-
+```
      
 ### Summary
 
