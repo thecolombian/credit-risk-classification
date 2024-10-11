@@ -24,7 +24,9 @@ The dataset includes various financial features such as `loan_size`, `borrower_i
     * **Precision (High-Risk Loans)**: 85%
     * **Recall (High-Risk Loans)**: 94%
     * **F1 Score (High-Risk Loans)**: 89%
-    * The confusion matrix and balanced accuracy score indicate that the model performed exceptionally well identifying healthy loans while maintaining solid precision for high-risk loans.
+ 
+      
+    ## The confusion matrix and balanced accuracy score indicate that the model performed exceptionally well identifying healthy loans while maintaining solid precision for high-risk loans.
 
 ### Additional data analysis Results
 
