@@ -38,8 +38,7 @@ The dataset includes various financial features such as `loan_size`, `borrower_i
    * **6     Number of Accounts Low      1
    * **7    Number of Accounts High     16
    * **8         Average Total Debt  19222
-   * **9   Debt to Income Ratio Min      0
-   * **10  Debt to Income Ratio Max      0
+
 ```
      
 ### Summary
