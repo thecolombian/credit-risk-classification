@@ -26,6 +26,22 @@ The dataset includes various financial features such as `loan_size`, `borrower_i
     * **F1 Score (High-Risk Loans)**: 89%
     * The confusion matrix and balanced accuracy score indicate that the model performed exceptionally well identifying healthy loans while maintaining solid precision for high-risk loans.
 
+### Additional data analysis Results
+
+                      Metric         Value
+   * **0          Loan Size Average   9806
+   * **1           Loan Size Median   9500
+   * **2      Interest Rate Average      7
+   * **3       Interest Rate Median      7
+   * **4    Borrower Income Average  49222
+   * **5     Borrower Income Median  48100
+   * **6     Number of Accounts Low      1
+   * **7    Number of Accounts High     16
+   * **8         Average Total Debt  19222
+   * **9   Debt to Income Ratio Min      0
+   * **10  Debt to Income Ratio Max      0
+
+     
 ### Summary
 
 The **Logistic Regression** model was highly influential in predicting healthy and high-risk loans, achieving an accuracy of 99.26% and a balanced accuracy score of 94%. 
